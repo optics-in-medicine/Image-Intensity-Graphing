@@ -1,8 +1,3 @@
-%Code adapted from:
-%http://www.mathworks.com/matlabcentral/answers/112348-how-to-get-intensity-along-a-spcific-curve
-%(Image Analyst's answer)
-%--Clare
-
 function[] = intensity_along_line(image1,image2)
 
 %%Image #1
