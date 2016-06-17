@@ -1,5 +1,7 @@
 # Image-Intensity-Graphing
 
+501B im2.I_c.jpg can be used as an example image for testing out the program
+
 Measure_Tumor_Intensity:
 This function takes an image, allows the user to trace tumor in image, and then produces a graph showing the intensities along the tumor margin, in the tumor, and outside the tumor margin ("normal" tissue) in addition to finding the mean intensities of each 
 Works Cited:
@@ -20,10 +22,9 @@ Tumor_Intensity_Graph_and_Means:
 This script runs the Measure_Tumor_Intensity function 
 
 intensity_along_line:
-first pass at comparing the intensities of two images along a line: "intensity_along_line"
+  first pass at comparing the intensities of two images along a line: "intensity_along_line"
   This code was adapted from:
   Image Analyst (2014) "How to get INTENSITY along a spcific curve?" 
   <http://www.mathworks.com/matlabcentral/answers/112348-how-to-get-intensity-along-a-spcific-curve>
-
   #NOTE: the lengths/positions of the lines measuring intensity can be changed, but they should both be approximately the same length for best graph results
   Currently, this code accepts and measures two images, but that could easily be adjusted to accommodate more/fewer images. 
