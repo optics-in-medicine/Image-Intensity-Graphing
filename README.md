@@ -1,5 +1,12 @@
 # Image-Intensity-Graphing
 
+The current best code for the image intensity graphing is the 
+code Tumor_Intensity_FINAL_BothFluorImages
+this code requires the function subtightplot, which can be found here: https://www.mathworks.com/matlabcentral/fileexchange/39664-subtightplot
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Everything below refers to other attempts (irrelevant when using Tumor_Intensity_FINAL_BothFluorImages)
+
 501B im2.I_c.jpg can be used as an example image for testing out the program
 
 Measure_Tumor_Intensity:
